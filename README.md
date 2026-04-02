@@ -102,4 +102,4 @@ is available → [`Netflix_Data_Summary.pdf `](./Netflix_Data_Summary.pdf )
 ## 👤 Author
 **Akhilesh**  
 Data Analytics Enthusiast | CertNexus Certified  
-[LinkedIn](www.linkedin.com/in/akhilesh-1109ma) • [GitHub](https://github.com/Akhilesh-Mogaveer)
+[LinkedIn](https://linkedin.com/in/akhilesh-1109ma) • [GitHub](https://github.com/Akhilesh-Mogaveer)
